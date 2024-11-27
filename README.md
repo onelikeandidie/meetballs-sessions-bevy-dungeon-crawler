@@ -28,5 +28,20 @@ most important part of this is to enable the `dynamic_linking` feature of bevy,
 this is literally a 5000000% decrease in subsequent builds. I cannot stress
 this enough, this is crucial to not spend 2 hours debugging your game.
 
+I recommend following the rest of the bevy tutorial to create your first Bevy
+App.
 
+Here are some resources to help:
 
+- [Bevy Examples](https://bevyengine.org/examples)
+  - This is your go-to for examples, you shouldn't need to look anywhere else
+  for examples unless you're using third-party plugins
+- [Unofficial Cookbook](https://bevy-cheatbook.github.io)
+  - Not always updated to the most recent version of bevy, specially in the
+  more advanced topics, but will get you there most of the time.
+- The following image
+  - ![A right hand with their index, middle and thumb fingers highlighted to
+  show the directions of the coordinate system. The index finger is the Y
+  coordinate, the middle finger is the z coordinate and the thumb is the x
+  coordinate. It also shows a table comparing to the various game engines and
+  modeling softwares](./docs/assets/handedness.png)
