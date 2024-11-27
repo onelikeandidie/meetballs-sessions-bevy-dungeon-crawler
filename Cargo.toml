@@ -1,0 +1,4 @@
+[workspace]
+resolver = "2"
+members = ["basic_project", "refactored_project", "asset_loading"]
+
